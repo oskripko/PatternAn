@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/qml/MainWindow.qml</file>
+        <file>Resources/images/cross.svg</file>
+    </qresource>
+</RCC>
+

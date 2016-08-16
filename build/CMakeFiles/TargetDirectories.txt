@@ -1,0 +1,4 @@
+C:/Users/Olga/Desktop/PatternAn/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Olga/Desktop/PatternAn/build/CMakeFiles/PatternAn.dir
+C:/Users/Olga/Desktop/PatternAn/build/CMakeFiles/edit_cache.dir
+C:/Users/Olga/Desktop/PatternAn/build/CMakeFiles/PatternAn_automoc.dir
